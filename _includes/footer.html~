@@ -3,7 +3,7 @@
   <div class="wrapper">
     {% include social_footer.html %}
     <div class="copyright">
-      <p>&copy; {{site.time | date: '%Y'}} Todos los derechos reservados. Implementado por <a href='' target="_blank">Kenneth Perez</a></p>
+      <p>&copy; {{site.time | date: '%Y'}} All rights reserved. Design by <a href='' target="_blank">Kenneth Perez</a></p>
     </div>
   </div>
 </footer> <!-- End Section Footer -->
