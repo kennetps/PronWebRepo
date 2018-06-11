@@ -2,7 +2,7 @@
 layout: main
 ---
 
-{% for post in paginator.posts limit:6 %}
+{% for post in paginator.posts limit:3 %}
   <div class="chapter">
     <a href="{{post.url | prepend: site.baseurl}}">
       {% if post.img %}
