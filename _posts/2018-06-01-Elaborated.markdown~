@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Sitio Estandar a $200"
-img: Jardines.png # Add image post (optional)
+title: "Sitio Elaborado a $250"
+img: Pronto.png # Add image post (optional)
 date: 2017-06-03 12:55:00 +0300
-description: Un sitio actual y funcional con un estilo moderno
+description: Un sitio con las tecnologias mas actuales del mercado y los mejores diseño
 tag: [Travel, Blogging, Mountains]
 ---
-Demostracion en vivo:
-https://kennetps.github.io/EnsuenoRepo/
+Demostracion en vivo: 
+https://kennetps.github.io/PronWebRepo/
 
-Contenido de un sitio basico
+Contenido de un sitio Elaborado
 
 >
 * Contacto - Basico 
@@ -25,6 +25,9 @@ Contenido de un sitio basico
 * SurveyMonkey para manejo de subscripciones y envio de emails - Paquete Estandar
 * Recibo de emails via contacto en la pagina web - Paquete Estandar
 * Acceso a mejores y mas modernas plantillas - Paquete Estandar
+* VideoBanner - Paquete Elaborado
+* Counters on page - Paquete elaborado
+* Animaciones - Paquete elaborado
 
  <cite>-Completamente personalizado para su gusto</cite>
 
@@ -32,7 +35,7 @@ Nuestros sitios son modernos y se acomodan a las nuevas tendencias del mercado e
 
 Otros Factores
 >
-* Tiempo de creacion: De 2 a 4 semanas 
+* Tiempo de creacion: 1 mes minimo
 * Plantillas a elegir: Diversas
 * Duracion: 1 año
 * Renovacion: 50 USD
