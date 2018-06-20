@@ -1,11 +1,11 @@
 logo: # add logo name
-title: Prontoweb - tu web facil
+title: Prontowebs - tu web facil
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "/bef" # the subpath of your site, e.g. /blog
+baseurl: "http://prontowebs.com" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
@@ -22,12 +22,12 @@ phone: 6038-8208 # your pnone number
 website: # you website
 
 # Social link
-google_url:    # add url link
-twitter_url:   # add url link
-instagram_url: # add url link
-pinterest_url: # add url link
-dribbble_url:  # add url link
-facebook_url:  # add url link
+ google_url: https://plus.google.com/u/0/109810450686258610293    # add url link
+ twitter_url: https://twitter.com/WebsPronto  # add url link
+# instagram_url: # add url link
+# pinterest_url: # add url link
+# dribbble_url:  # add url link
+ facebook_url:  https://www.facebook.com/ProntoWebs-590582627979601/# add url link
 
 # Disqus
 discus_identifier: mr-brown # add your discus identifier
