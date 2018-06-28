@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sitio basico a $150"
-img: Huper.jpg # Add image post (optional)
+img: 1Pups.jpg # Add image post (optional)
 date: 2017-06-03 12:55:00 +0300
 description: Una exelente carta de presentacion online para sus necesidades mas directas
 tag: [Travel, Blogging, Mountains]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sitio Elaborado a $250"
-img: Pronto.png # Add image post (optional)
+img: 3Pups.jpg # Add image post (optional)
 date: 2017-06-03 12:55:00 +0300
 description: Un sitio con las tecnologias mas actuales del mercado y los mejores diseño
 tag: [Travel, Blogging, Mountains]

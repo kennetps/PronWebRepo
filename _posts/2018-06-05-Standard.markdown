@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sitio Estandar a $200"
-img: Jardines.png # Add image post (optional)
+img: 2Pups.jpg # Add image post (optional)
 date: 2017-06-03 12:55:00 +0300
 description: Un sitio actual y funcional con un estilo moderno
 tag: [Travel, Blogging, Mountains]
