@@ -1,8 +1,13 @@
 
 <header class="main_header">
-  <a href="{{site.baseurl}}/" class="logo">{% if site.logo %}{{site.logo}}{% else %}Pronto<span>web</span>{% endif %}</a>
+<div style="width: 50px; height: 20px; float: left;">
+
+  <a href="{{site.baseurl}}/" class="logo"><img src="{{site.baseurl}}/assets/img/pwebsmall.png"></a>
+
+</div>
+
   <nav class="main_menu">
-    <a href="{{site.baseurl}}/informacion/">Informacion</a>
+    <a href="{{site.baseurl}}/info/">Informacion</a>
     <a href="{{site.baseurl}}/contacto/">Contacto</a>
   </nav>
 </header> <!-- End Section Header -->
